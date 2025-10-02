@@ -1,6 +1,6 @@
 # 🛡️ Snort IDS Tutorial
 
-Snort is a **free and open-source Intrusion Detection System (IDS)**.  
+Snort is a **free and open-source Intrusion Detection System (IDS)** 
 It analyzes network traffic in real time and detects suspicious or malicious activity using rule-based logic.  
 
 This repository is a **student-friendly tutorial** that explains how to install, configure, and write custom rules in Snort.
